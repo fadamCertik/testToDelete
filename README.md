@@ -1,1 +1,3 @@
 # testToDelete
+
+DISCORD_TOKEN="OTYzNzk2NjYxMzQyMTg3NjQw.G-bZQ1.ZY2_rCP1fNyGJHN-Ecr6GD7AHN9y2WtKOeazSg"
